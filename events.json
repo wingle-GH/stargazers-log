@@ -1,0 +1,23 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "repository": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with millions of other people.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred_at": "2024-01-15"
+  },
+  {
+    "name": "The Algorithms",
+    "repository": "TheAlgorithms/Python",
+    "description": "All algorithms implemented in Python.",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "starred_at": "2024-02-08"
+  },
+  {
+    "name": "Vite",
+    "repository": "vitejs/vite",
+    "description": "Next generation frontend tooling.",
+    "url": "https://github.com/vitejs/vite",
+    "starred_at": "2024-03-22"
+  }
+]
